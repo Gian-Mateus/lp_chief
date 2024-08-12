@@ -42,6 +42,7 @@ main{
     align-items: center;
     padding: 2rem 1rem;
     flex: 1;
+    min-height: 750px;
 }
 
 main > h1{
@@ -142,7 +143,6 @@ main > ul > li > img{
 footer{
     background-color: var(--color-primary);
     width: 100%;
-    max-width: 1024px;
     padding: 0 3rem;
 }
 
